@@ -1,0 +1,1 @@
+this is file b. File is located in test_dir

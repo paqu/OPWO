@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+	<published>Mon Jun 15 19:12:33 CEST 2020</published>
+	<file name="empty_file.txt">
+		<size>0</size>
+		<hash type="md5">d41d8cd98f00b204e9800998ecf8427e</hash>
+		<url>http://zad-opwo.com/download111/sub_dir/sub_sub_dir/empty_file.txt</url>
+	</file>
+	<file name="last_file.txt">
+		<size>42</size>
+		<hash type="md5">92bdc57eb38cfc9aa84c6244d33761c8</hash>
+		<url>http://zad-opwo.com/download111/sub_dir/sub_sub_dir/last_file.txt</url>
+	</file>
+	<file name="c.txt">
+		<size>20</size>
+		<hash type="md5">fbbe0c5c440aec425fa483cb870156db</hash>
+		<url>http://zad-opwo.com/download111/sub_dir/c.txt</url>
+	</file>
+	<file name="xxx.txt">
+		<size>4</size>
+		<hash type="md5">6de9439834c9147569741d3c9c9fc010</hash>
+		<url>http://zad-opwo.com/download111/xxx.txt</url>
+	</file>
+	<file name="b.txt">
+		<size>44</size>
+		<hash type="md5">90f43562c530cd870f7512e9ac3bfcc3</hash>
+		<url>http://zad-opwo.com/download111/b.txt</url>
+	</file>
+	<file name="a.txt">
+		<size>7</size>
+		<hash type="md5">7b45efce55755c97e7ca012e1e7f982d</hash>
+		<url>http://zad-opwo.com/download111/a.txt</url>
+	</file>
+</metalink>
